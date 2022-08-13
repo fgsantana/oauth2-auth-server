@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "issuer.alias",
+      "type": "java.lang.String",
+      "description": "Description for issuer.alias."
+  }
+] }
